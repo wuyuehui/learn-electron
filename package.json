@@ -1,0 +1,16 @@
+{
+  "name": "learn-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "learn",
+    "electron"
+  ],
+  "devDependencies": {
+    "electron": "^18.1.0"
+  }
+}
